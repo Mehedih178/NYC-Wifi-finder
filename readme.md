@@ -26,11 +26,6 @@ NYC WiFi Finder is a web application that helps users locate free public Wi-Fi h
 
 ## Screenshots
 
-*Coming soon – add images here to showcase app features.*
+*Coming soon*
 
 ## Setup for Local Development
-
-```bash
-git clone https://github.com/Mehedih178/NYC-Wifi-finder.git
-cd NYC-Wifi-finder
-open index.html  # Or serve with a local HTTP server
